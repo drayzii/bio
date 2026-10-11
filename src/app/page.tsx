@@ -14,7 +14,7 @@ const ventures = [
   {
     name: "Imperium",
     description: "Software, built right.",
-    url: "https://buildwithimperium.com",
+    url: "https://imperium.rw",
     cta: "Hire us",
   },
 ]
